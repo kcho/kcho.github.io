@@ -1,8 +1,8 @@
-# 바이오파이썬
+# CCNC neuroimage
 
 [About](doc/intro.md)
 
-[part1]()
+[ㅋㅋㅋ커]()
 
   * [유닉스(리눅스) 기본 명령어 & 파이썬 환경설정](doc/part1/d01.md)
   * [IPython notebook](doc/part1/d02.md)
@@ -13,15 +13,14 @@
   * [Data analysis with Python](doc/part1/d07.md)
   * [버전관리](doc/part1/d08.md)
 
-[part2]()
+[prac]()
 
   * [ch1~3](doc/part2/d01.md)
   * [ch4~6](doc/part2/d02.md)
   * [ch7~9](doc/part2/d03.md)
   * [ch10~12](doc/part2/d04.md)
   * [ch13~15](doc/part2/d05.md)
-  * [ch16~18](doc/part2/d06.md)
-  * [ch19~21](doc/part2/d07.md)
+  * [zzzzzzzㅋㅋㅋㅋ](doc/part2/d06.md)
 
 [part3]()
 

@@ -1,30 +1,75 @@
-# CCNC neuroimage
+# makeduck
 
-[About](doc/intro.md)
+[About](index.md)
 
-[Kevin]()
+[Project note]()
 
-  * [Diffusion kurtosis project](doc/part1/d01.md)
-  * [IPython notebook](doc/part1/d02.md)
-  * [Python Basics I & II](doc/part1/d03.md)
-  * [Python Modules & NumPy and Matplotlib](doc/part1/d04.md)
-  * [Biopython I & Biopython II](doc/part1/d05.md)
-  * [Data  management and relational databases](doc/part1/d06.md)
-  * [Data analysis with Python](doc/part1/d07.md)
-  * [버전관리](doc/part1/d08.md)
+  * #DKI project
+  * [contents](technote.md)
+  ----------
+  * [markdown](markdown.md)
+  * [intellj tip](intellij.md)
+  * [git](git.md)
+  * [Mean Stack](meanstack.md)
+  * [hosting](hosting.md)
+  * [generator](generator.md)
+  * [nodejs](nodejs.md)
+  * [python](python.md)
+  * [grinder](grinder.md)
+  * [jQuery](jQuery.md)
+  * [oracle](oracle.md)
+  * [mysql](mysql.md)
+  * [redis](redis.md)
+  * [maven](maven.md)
+  * [regexr](regexr.md)
+  * [linux](linux.md)
+  * [raspberry](raspberry.md)
+  ------------
+  * [techTree](techtree.md)
+  * [Quickstart](quickstart.md)
 
-[prac]()
 
-  * [ch1~3](doc/part2/d01.md)
-  * [ch4~6](doc/part2/d02.md)
-  * [ch7~9](doc/part2/d03.md)
-  * [ch10~12](doc/part2/d04.md)
-  * [ch13~15](doc/part2/d05.md)
-  * [zzzzzzzㅋㅋㅋㅋ](doc/part2/d06.md)
+[Lab]()
 
-[part3]()
+  * [connectionTimeOut](connectionTimeOut.md)
+  * [mysqlReplicationDriver](mysqlReplicationDriver.md)
 
-  * [ch1~3](doc/part3/d01.md)
+[make]()
+
+  * [ideation](ideation.md)
+  * [ansertoapp](ansertoapp.md)
+  * [결과예측](preresult.md)
+  * [스키장터](skijangter.md)
+
+[book]()
+
+  * [book](book.md)
+  * [2014](book2014.md)
+
+[seminar](seminar.md)
+
+[diary]()
+
+  * [2014](diary2014.md)
 
 
-[gimmick:theme (inverse: false)](cerulean)
+[gimmick:theme (inverse: false)](yeti)
+
+[gimmick:ThemeChooser](Change theme)
+
+<!-- counter pixel for counting visitors -->
+<!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-44627253-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

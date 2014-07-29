@@ -1,4 +1,4 @@
-# makeduck
+# Kang-Ik Kevin Cho
 
 [About](index.md)
 

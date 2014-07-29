@@ -2,9 +2,9 @@
 
 [About](doc/intro.md)
 
-[ㅋㅋㅋ커]()
+[Kevin]()
 
-  * [유닉스(리눅스) 기본 명령어 & 파이썬 환경설정](doc/part1/d01.md)
+  * [Diffusion kurtosis project](doc/part1/d01.md)
   * [IPython notebook](doc/part1/d02.md)
   * [Python Basics I & II](doc/part1/d03.md)
   * [Python Modules & NumPy and Matplotlib](doc/part1/d04.md)

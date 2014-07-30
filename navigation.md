@@ -31,8 +31,9 @@
 
 
 [Pain project]()
-
-  * [connectionTimeOut](connectionTimeOut.md)
+  * # CRPS cortical thickness project
+  ----------
+  * [Subjects](painProject/subjects.md)
   * [mysqlReplicationDriver](mysqlReplicationDriver.md)
 
 [DKI project]()

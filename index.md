@@ -5,11 +5,7 @@ About
 
 ![myPic.jpg](img/myPic.jpg)
 
-- 27
-- M
-- bio
-- neuro
-- imaging
+- 27 / M / Biology / Schizophrenia / Brain-imaging
 
 Features
 --------

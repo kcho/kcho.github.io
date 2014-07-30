@@ -78,30 +78,30 @@ FWHM 20
 
 ```
 mris_preproc \
-    --fsgd g2v2.fsgd \
+    --fsgd g2v1.fsgd \
     --target average \
     --hemi lh \
     --meas thickness \
-    --out lh.group_age_iq.thickness.00.mgh
+    --out lh.group_age.thickness.00.mgh
 
 mri_surf2surf \
     --hemi lh \
     --s average \
-    --sval lh.group_age_iq.thickness.00.mgh \
+    --sval lh.group_age.thickness.00.mgh \
     --fwhm 20 \
     --cortex \
-    --tval lh.group_age_iq.thickness.20B.mgh
+    --tval lh.group_age.thickness.20B.mgh
 
 mri_glmfit \
-    --y lh.group_age_iq.thickness.20B.mgh \
-    --fsgd g2v2.fsgd dods \
+    --y lh.group_age.thickness.20B.mgh \
+    --fsgd g2v1.fsgd dods \
     --C group.diff.2cov.mtx \
     --surf average lh \
     --cortex \
-    --glmdir lh.group_age_iq.20.glmdir
+    --glmdir lh.group_age.20.glmdir
 
 mri_glmfit-sim \
-    --glmdir rh.group_age_iq.20.glmdir \
+    --glmdir rh.group_age.20.glmdir \
     --sim perm 5000 3 perm.negative \
     --sim-sign neg \
     --cwpvalthresh 0.05 \
@@ -110,30 +110,30 @@ mri_glmfit-sim \
 
 #right
 mris_preproc \
-    --fsgd g2v2.fsgd \
+    --fsgd g2v1.fsgd \
     --target average \
     --hemi rh \
     --meas thickness \
-    --out rh.group_age_iq.thickness.00.mgh
+    --out rh.group_age.thickness.00.mgh
 
 mri_surf2surf \
     --hemi rh \
     --s average \
-    --sval rh.group_age_iq.thickness.00.mgh \
+    --sval rh.group_age.thickness.00.mgh \
     --fwhm 20 \
     --cortex \
-    --tval rh.group_age_iq.thickness.20B.mgh
+    --tval rh.group_age.thickness.20B.mgh
 
 mri_glmfit \
-    --y rh.group_age_iq.thickness.20B.mgh \
-    --fsgd g2v2.fsgd dods \
+    --y rh.group_age.thickness.20B.mgh \
+    --fsgd g2v1.fsgd dods \
     --C group.diff.2cov.mtx \
     --surf average rh \
     --cortex \
-    --glmdir rh.group_age_iq.20.glmdir
+    --glmdir rh.group_age.20.glmdir
 
 mri_glmfit-sim \
-    --glmdir lh.group_age_iq.20.glmdir \
+    --glmdir lh.group_age.20.glmdir \
     --sim perm 5000 3 perm.negative \
     --sim-sign neg \
     --cwpvalthresh 0.05 \
@@ -142,7 +142,17 @@ mri_glmfit-sim \
 
 ```
 
-##Extraction script
+
+##Extra
+
+- AGE & IQ covariate
+
+The group difference was not significant when both AGE and IQ were used as the covariate
+
+<br>
+- Extraction script
+
+To extract the thickness values of the cluster that showed significnat group difference ...
 
 ```
 

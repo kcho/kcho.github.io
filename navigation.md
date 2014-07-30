@@ -5,7 +5,7 @@
 [Thalamus project]()
 
   * # CHR / FEP thalamus project
-  * [contents](technote.md)
+  * [contents](thalamusCHRFEP/intro.md)
   ----------
   * [markdown](markdown.md)
   * [intellj tip](intellij.md)

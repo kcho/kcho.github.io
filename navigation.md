@@ -7,7 +7,7 @@
   * # CHR / FEP thalamus project
   * [abstract](thalamusCHRFEP/intro.md)
   ----------
-  * [Demographics](thalamusCHRFEP/Demographic check.ipynb)
+  * [Demographics](http://nbviewer.ipython.org/github/kcho/kcho.github.io/blob/master/thalamusCHRFEP/Demographic%20check.ipynb)
   * [markdown](markdown.md)
   * [intellj tip](intellij.md)
   * [git](git.md)

@@ -74,6 +74,74 @@ FWHM 20
 ```
 
 
+##Script
+
+```
+mris_preproc \
+    --fsgd g2v2.fsgd \
+    --target average \
+    --hemi lh \
+    --meas thickness \
+    --out lh.group_age_iq.thickness.00.mgh
+
+mri_surf2surf \
+    --hemi lh \
+    --s average \
+    --sval lh.group_age_iq.thickness.00.mgh \
+    --fwhm 20 \
+    --cortex \
+    --tval lh.group_age_iq.thickness.20B.mgh
+
+mri_glmfit \
+    --y lh.group_age_iq.thickness.20B.mgh \
+    --fsgd g2v2.fsgd dods \
+    --C group.diff.2cov.mtx \
+    --surf average lh \
+    --cortex \
+    --glmdir lh.group_age_iq.20.glmdir
+
+mri_glmfit-sim \
+    --glmdir rh.group_age_iq.20.glmdir \
+    --sim perm 5000 3 perm.negative \
+    --sim-sign neg \
+    --cwpvalthresh 0.05 \
+    --overwrite \
+    --perm-force&
+
+#right
+mris_preproc \
+    --fsgd g2v2.fsgd \
+    --target average \
+    --hemi rh \
+    --meas thickness \
+    --out rh.group_age_iq.thickness.00.mgh
+
+mri_surf2surf \
+    --hemi rh \
+    --s average \
+    --sval rh.group_age_iq.thickness.00.mgh \
+    --fwhm 20 \
+    --cortex \
+    --tval rh.group_age_iq.thickness.20B.mgh
+
+mri_glmfit \
+    --y rh.group_age_iq.thickness.20B.mgh \
+    --fsgd g2v2.fsgd dods \
+    --C group.diff.2cov.mtx \
+    --surf average rh \
+    --cortex \
+    --glmdir rh.group_age_iq.20.glmdir
+
+mri_glmfit-sim \
+    --glmdir lh.group_age_iq.20.glmdir \
+    --sim perm 5000 3 perm.negative \
+    --sim-sign neg \
+    --cwpvalthresh 0.05 \
+    --overwrite \
+    --perm-force
+
+```
+
 ##Extraction script
 
 ```

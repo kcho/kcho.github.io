@@ -3,16 +3,19 @@ About
 
 ##Kang-Ik Kevin Cho
 
-```
-'''1. project 정리
-2. 잡다한 code 정리
-'''
-```
+- 27
+- M
+- bio
+- neuro
+- psychiatry
+- imaging
 
 Features
 --------
 
     kcho.github.io
+    summary +
+    codes & scripts
 
 comment
 --------

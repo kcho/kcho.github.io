@@ -7,4 +7,4 @@ HCs|37|15|10|hoho|M
 
 
 
-<iframe width="480" height="360" src="http://nbviewer.ipython.org/github/kcho/kcho.github.io/blob/master/thalamusCHRFEP/Demographic%20check.ipynb" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="http://google.com" frameborder="0"> </iframe>

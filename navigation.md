@@ -35,7 +35,8 @@
   * # CRPS cortical thickness project
   * [Subjects](painProject/subjects.md)
   ----------
-  * [Thickness](painProject/corticalThickness.md)
+  * [Methods](painProject/corticalThickness.md)
+  * [Results](painProject/results.md)
 
 [DKI project]()
 

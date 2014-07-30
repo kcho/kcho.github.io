@@ -1,5 +1,8 @@
 #Subjects
 
+PAIN : 25
+HCS : 25
+
 ##CRPS
 Subjects|Group|Age|Edu
 ---|---|---|---

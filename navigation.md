@@ -5,8 +5,9 @@
 [Thalamus project]()
 
   * # CHR / FEP thalamus project
-  * [contents](thalamusCHRFEP/intro.md)
+  * [abstract](thalamusCHRFEP/intro.md)
   ----------
+  * [Demographics](thalamusCHRFEP/demo.md)
   * [markdown](markdown.md)
   * [intellj tip](intellij.md)
   * [git](git.md)

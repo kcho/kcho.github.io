@@ -7,7 +7,7 @@
   * # CHR / FEP thalamus project
   * [abstract](thalamusCHRFEP/intro.md)
   ----------
-  * [Demographics](thalamusCHRFEP/demo.md)
+  * [Demographics](thalamusCHRFEP/Demographic check.ipynb)
   * [markdown](markdown.md)
   * [intellj tip](intellij.md)
   * [git](git.md)

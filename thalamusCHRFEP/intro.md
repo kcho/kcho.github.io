@@ -1,15 +1,20 @@
-#Contents
+Intro
+=====
 
-This is my first projects
+##Introduction
 
-##Subjects
-
-how many subjects
+brain centre
 
 
-##Why this project?
-
-thalamus
-
-##Which modality ?
+##Methods
 DTI
+
+
+##Results
+
+gradient
+
+
+##Discussion
+
+verygood

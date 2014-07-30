@@ -7,11 +7,11 @@ About
 
 #### 27 / M / Biology / Schizophrenia / Brain-imaging
 
-Features
+github.io contents
 --------
 
-    project summary
-    codes & scripts
+- project summary
+- python / bash scripts 
 
 comment
 --------

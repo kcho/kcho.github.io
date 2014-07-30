@@ -1,10 +1,10 @@
-makeduck.github.io
+kcho.github.io
 ==================
 
 
-개덕 홈페이지 reposity
+kcho website
 
 
-http://makeduck.github.io
+http://kcho.github.io
 
 http://www.example.com/mdwiki.html#!myfile.md

@@ -2,9 +2,9 @@
 
 [About](index.md)
 
-[Project note]()
+[Thalamus project]()
 
-  * #DKI project
+  * # CHR / FEP thalamus project
   * [contents](technote.md)
   ----------
   * [markdown](markdown.md)
@@ -29,13 +29,16 @@
   * [Quickstart](quickstart.md)
 
 
-[Lab]()
+[Pain project]()
 
   * [connectionTimeOut](connectionTimeOut.md)
   * [mysqlReplicationDriver](mysqlReplicationDriver.md)
 
-[make]()
+[DKI project]()
 
+  * # SPD / FEP DKI gray matter 
+  * [contents](technote.md)
+  ----------
   * [ideation](ideation.md)
   * [ansertoapp](ansertoapp.md)
   * [결과예측](preresult.md)

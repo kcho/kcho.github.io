@@ -1,5 +1,7 @@
 #Cortical thickness
+
 ##fsgd file
+
 ```
 GroupDescriptorFile 1
 Title OSGM
@@ -60,12 +62,20 @@ Input NOR42_PSK CON 48
 
 
 ##mtx : group.diff.1cov.mtx
+
 ```
 1 -1 0 0
 ```
 
+##Smoothing
+
+```
+FWHM 20
+```
+
 
 ##Extraction script
+
 ```
 
 export SUBJECTS_DIR=/Volumes/CCNC_3T/2013_12_painAnalysis/2013_08_23_pain_freesurfer/freesurfer_2014_04_03

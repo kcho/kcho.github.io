@@ -33,9 +33,9 @@
 [Pain project]()
 
   * # CRPS cortical thickness project
-  * [Subjects](painProject/subjects.md)
   ----------
-  * [mysqlReplicationDriver](mysqlReplicationDriver.md)
+  * [Subjects](painProject/subjects.md)
+  * [Thickness](painProject/corticalThickness.md)
 
 [DKI project]()
 

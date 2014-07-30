@@ -9,14 +9,15 @@ About
 - M
 - bio
 - neuro
-- psychiatry
 - imaging
 
 Features
 --------
 
-    kcho.github.io
-    summary +
+    project summary
+
+<br>
+
     codes & scripts
 
 comment

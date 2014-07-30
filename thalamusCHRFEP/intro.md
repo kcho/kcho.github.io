@@ -1,7 +1,7 @@
 Intro
 =====
 
-![Thalamus](http://en.wikipedia.org/wiki/Thalamus#mediaviewer/File:Thalamus_small.gif)
+![Thalamus](http://upload.wikimedia.org/wikipedia/commons/7/78/Thalamus_small.gif)
 
 ##Introduction
 

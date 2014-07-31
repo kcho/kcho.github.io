@@ -10,6 +10,7 @@
   * [Demographics](thalamusCHRFEP/demo.md)
   * [Methods](thalamusCHRFEP/methods.md)
   * [Data Management](thalamusCHRFEP/dataManage.md)
+  * [Results](thalamusCHRFEP/results.md)
   ------------
   * [techTree](techtree.md)
   * [Quickstart](quickstart.md)

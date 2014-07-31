@@ -17,13 +17,13 @@
   * # CRPS cortical thickness project
   * [Abstract](painProject/abstract.md)
   ----------
-  (** [Subjects](painProject/subjects.md)*)
+  * [Subjects](painProject/subjects.md)
   * [Methods](painProject/corticalThickness.md)
   * [Results](painProject/results.md)
 
 [DKI project]()
 
-  * # SPD / FEP DKI gray matter 
+  * # SPD/FEP DKI gray matter 
   * [Abstract](dki/abstract.md)
   ----------
   * [Script](dki/script.md)

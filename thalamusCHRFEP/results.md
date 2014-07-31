@@ -11,6 +11,7 @@
 
 
 ## Relative connectivity
+![result](img/result.png)
 
 * Left and Right together
 

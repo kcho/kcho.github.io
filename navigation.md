@@ -7,8 +7,8 @@
   * # CHR / FEP thalamus project
   * [abstract](thalamusCHRFEP/intro.md)
   ----------
-  * [Demographics](demo.md)
-  * [Demographics](demo.md)
+  * [Demographics](thalamusCHRFEP/demo.md)
+  * [methods](demo.md)
   ------------
   * [techTree](techtree.md)
   * [Quickstart](quickstart.md)

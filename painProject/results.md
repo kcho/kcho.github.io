@@ -7,6 +7,8 @@ Side | multiple-comparison correction | results | p-value
 Left|mc-z and perm|thinner@medialorbitofrontal|0.017(mc-z)/0.021(perm)
 Right|mc-z and perm|thinner@rostralmiddlefrontal|0.021(mc-z)/0.026(perm)
 
+![result](img/result.png)
+
 ## Left hemisphere
 
 - mc-z.negative.sig.cluster.summary

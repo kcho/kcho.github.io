@@ -33,8 +33,9 @@
 [Pain project]()
 
   * # CRPS cortical thickness project
-  * [Subjects](painProject/subjects.md)
+  * [Abstract](painProject/abstract.md)
   ----------
+  * [Subjects](painProject/subjects.md)
   * [Methods](painProject/corticalThickness.md)
   * [Results](painProject/results.md)
 

@@ -8,6 +8,7 @@
   * [abstract](thalamusCHRFEP/intro.md)
   ----------
   * [Demographics](demo.md)
+  * [Demographics](demo.md)
   ------------
   * [techTree](techtree.md)
   * [Quickstart](quickstart.md)

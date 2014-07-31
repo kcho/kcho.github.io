@@ -1,4 +1,5 @@
 Demographic information of the subjects
 =======
 
-http://nbviewer.ipython.org/github/kcho/kcho.github.io/blob/master/thalamusCHRFEP/Demographic%20check.ipynb
+ipython notebook link [linked text](http://nbviewer.ipython.org/github/kcho/kcho.github.io/blob/master/thalamusCHRFEP/Demographic%20check.ipynb)
+

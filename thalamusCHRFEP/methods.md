@@ -1,6 +1,6 @@
 #Methods
 
-##Script from dicom
+##dicom conversion & name change
 
 ```
 #!/bin/bash
@@ -44,10 +44,11 @@ do
     #
 
 
+```
 
-
-
-    #################################################################################### Below here, can be proceeded automatically :)
+##Preprocessing : DTI
+```
+#################################################################################### Below here, can be proceeded automatically :)
 
         #DTI-preprocessing2. eddy current
         if [ ! -e ${subj}/DTI/data.ecc* ]
@@ -85,9 +86,11 @@ do
         echo No DTI in ${subj}
     fi
 
+```
 
 
-
+##T1 preprocessing
+```
 #********************************************************************************************************T1
 
     if [ -d ${subj}/t1 ]
@@ -195,8 +198,11 @@ do
     then
         mri_convert ${subj}/freesurfer/mri/brain.mgz ${subj}/freesurfer/mri/brain.nii.gz
     fi
+```
 
+##Registration
 
+```
 #********************************************************************************************************
 	#Registration between the Bet_T1 --> Bet_Diffusion
 	if [ ! -e ${subj}/freesurfer/mri/brain_swapdim.nii.gz ]
@@ -257,7 +263,11 @@ do
         fi
 
     fi
+```
 
+##ROI extraction
+
+```
 ##********************************************************************************************************
 
     #ROI extraction
@@ -273,7 +283,10 @@ do
     else
         echo ${subj} ROI extraction done
     fi
+```
 
+##Segmentation
+```
 
     #Segmentation
     if [ ! -d ${subj}/segmentation ]
@@ -502,10 +515,12 @@ do
         fi
     done
 
+```
 
 
 
-
+##Stats
+```
 
 #------------------------------------------- stats 
     if [ ! -d log ]

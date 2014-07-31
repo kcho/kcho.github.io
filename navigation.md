@@ -7,7 +7,7 @@
   * # CHR / FEP thalamus project
   * [abstract](thalamusCHRFEP/intro.md)
   ----------
-  (** [Demographics](thalamusCHRFEP/demo.md)*)
+  * [Demographics](thalamusCHRFEP/demo.md)
   * [Methods & scripts](thalamusCHRFEP/methods.md)
   * [Data Management](thalamusCHRFEP/dataManage.md)
   * [Results](thalamusCHRFEP/results.md)

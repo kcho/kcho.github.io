@@ -9,7 +9,7 @@ Right|mc-z and perm|thinner@rostralmiddlefrontal|0.021(mc-z)/0.026(perm)
 
 ![result](img/result.png)
 
-## Left hemisphere
+## Left hemisphere summary files
 
 - mc-z.negative.sig.cluster.summary
 
@@ -104,7 +104,7 @@ Right|mc-z and perm|thinner@rostralmiddlefrontal|0.021(mc-z)/0.026(perm)
 ```
 
 
-##Right hemisphere
+##Right hemisphere summary files
 
 - mc-z.negative.sig.cluster.summary
 

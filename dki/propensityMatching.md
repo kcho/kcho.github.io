@@ -1,7 +1,7 @@
 #Propensity score matching
 
 
-##Background
+##Summary
 
 * first published by Paul Rosenbaum and Donald Rubin in 1983
 * Matching attempts to mimic randomization by creating a sample of units that received the treatment that is comparable on all observed covariates to a sample of units that did not receive the treatment
@@ -9,6 +9,27 @@
 * used to eliminate imbalances in baseline covariate distributions between groups
 
 <iframe width="800" height="700" src="http://http://en.wikipedia.org/wiki/Propensity_score_matching" frameborder="0" allowfullscreen></iframe>
+
+
+
+##Introduction
+
+- propensity score(PS)
+    - conditional probability of receiving a certain treatment given covariates
+    - has to be estimated via logistic regression
+    - It aims to eliminate the imbalances in the covariate distributions between groups
+
+Four PS based methods | characteristics
+---|---
+stratification|easy to understand
+matching|easy to understand
+covariate adjustment|easy to apply
+inverse probability weighting|weighted regression
+
+
+
+
+<iframe width="800" height="700" src="http://cran.at.r-project.org/web/packages/nonrandom/vignettes/nonrandom.pdf" frameborder="0" allowfullscreen></iframe>
 
 ##Practical
     
@@ -21,5 +42,4 @@
 
 * tool for a comprehensive data analysis using stratification, matching and covariate adjustment by PS
 
-<iframe width="800" height="700" src="http://cran.at.r-project.org/web/packages/nonrandom/vignettes/nonrandom.pdf" frameborder="0" allowfullscreen></iframe>
 

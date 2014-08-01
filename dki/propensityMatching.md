@@ -8,7 +8,7 @@
 * PSM attempts to control for these differences to make the groups receiving treatment and not-treatment more comparable.
 * used to eliminate imbalances in baseline covariate distributions between groups
 
-<iframe width="800" height="700" src="http://http://en.wikipedia.org/wiki/Propensity_score_matching" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="700" src="http://en.wikipedia.org/wiki/Propensity_score_matching" frameborder="0" allowfullscreen></iframe>
 
 
 

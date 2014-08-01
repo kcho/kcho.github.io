@@ -26,6 +26,7 @@
   * # SPD/FEP DKI gray matter 
   * [Abstract](dki/abstract.md)
   ----------
+  * [Propensity Score](dki/propensityMatching.md)
   * [Script](dki/script.md)
   * [SPD](dki/spd.md)
   * [FEP](dki/fep.md)

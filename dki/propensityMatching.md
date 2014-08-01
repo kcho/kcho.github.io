@@ -21,10 +21,26 @@
 
 Four PS based methods | characteristics
 ---|---
-stratification|easy to understand
-matching|easy to understand
+stratification|used to group individuals with similar or equal PS
+matching|used to match one or more subjects
 covariate adjustment|easy to apply
 inverse probability weighting|weighted regression
+
+
+##The estimation of PS
+
+###Selection of PS model :
+
+    relative.effect()
+
+- which covariates to include in the PS model
+    - age
+    - sex
+    - handedness
+    - education
+    - IQ
+
+    
 
 
 

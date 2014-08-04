@@ -40,10 +40,35 @@ inverse probability weighting|weighted regression
     - education
     - IQ
 
-    
+- Define output, treatment and covariates
 
+```
+df.effect <- relative.effect(data = df,
+                             formula = output~treatment+cov1+cov2+etc)
+```
 
+###Estimation of PS :
 
+    pscore()  and  plot.pscore()
+
+If covariates needed for the PS estimation are determined, a logistic regression model is fitted(internal use of glm()) assuming a binary treatment variable
+
+```
+df.ps <- pscore(data = df,
+                formula = therapie~cov1+cov2)
+```
+
+####Density estimation of the estimated PS
+
+```
+plot.pscore(df.ps,
+            main = "df study",
+            with.legend = TRUE,
+            par.1 = list(lty=1, lwd=2),
+            par.0 = list(lty=3, lwd=2),
+            xlab = "",
+            ylim = c(0,4.5))
+```
 
 <iframe width="800" height="700" src="http://cran.at.r-project.org/web/packages/nonrandom/vignettes/nonrandom.pdf" frameborder="0" allowfullscreen></iframe>
 

@@ -89,7 +89,18 @@ individuals --> groups : by similar or equal values for the stratification varia
 
 ###Matching by PS
 
+The most popular PS method to cope with covariate imbalances is matching by PS
+
     ps.match()
+
+One or more untreated individuals are matched to treated individuals (or vice versa) according to the estimated PS
+
+- depends both on the 
+    - class and 
+    - the numbers of the input objects
+
+
+
 
 ##Practical
     

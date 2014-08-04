@@ -99,6 +99,13 @@ One or more untreated individuals are matched to treated individuals (or vice ve
     - class and 
     - the numbers of the input objects
 
+- treatment variable is not necessarily needed since it is alrady stored in $treat
+
+- in ps.match()
+    - possible to pass two df by using the argument "object.control"
+    - one df for treated individuals and a second df for the untreated individuals
+
+
 
 
 

@@ -72,6 +72,25 @@ plot.pscore(df.ps,
 
 <iframe width="800" height="700" src="http://cran.at.r-project.org/web/packages/nonrandom/vignettes/nonrandom.pdf" frameborder="0" allowfullscreen></iframe>
 
+
+
+##PS based methods
+
+Observational and registry data frequently *present imbalances in covariate distributions* between treatment groups. 
+
+Stratification and matching by PS can be used to eliminate these imbalances by creating data situation as in RCTs.
+
+###Stratification by PS
+
+individuals --> groups : by similar or equal values for the stratification variable
+
+    ps.makestrata()
+    stratified.by #defines the stratification variable in the data
+
+###Matching by PS
+
+    ps.match()
+
 ##Practical
     
     nonrandom

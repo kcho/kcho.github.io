@@ -70,7 +70,6 @@ plot.pscore(df.ps,
             ylim = c(0,4.5))
 ```
 
-<iframe width="800" height="700" src="http://cran.at.r-project.org/web/packages/nonrandom/vignettes/nonrandom.pdf" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -121,3 +120,4 @@ One or more untreated individuals are matched to treated individuals (or vice ve
 * tool for a comprehensive data analysis using stratification, matching and covariate adjustment by PS
 
 
+<iframe width="800" height="700" src="http://cran.at.r-project.org/web/packages/nonrandom/vignettes/nonrandom.pdf" frameborder="0" allowfullscreen></iframe>

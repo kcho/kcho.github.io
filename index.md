@@ -7,7 +7,7 @@ About
 
 
 - Sokcho, London, Seoul
-- Interested in analysis in clinical neuroimaing
+- Interested in clinical neuroimaing analysis
 - UK IC Biomedical Sciences graduate & KR SNU PhD candidate in Brain and Cognitive Sciences 
 - kangik@snu.ac.kr
 

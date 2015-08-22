@@ -10,21 +10,25 @@
 [Matplotlib]()
 
   * Matplot lib
+  * [abstract](thalamusCHRFEP/intro.md)
 
 
 [R]()
 
   * Script summary
+  * [abstract](thalamusCHRFEP/intro.md)
 
 
 [RasberryPi]()
 
   * Script summary
+  * [abstract](thalamusCHRFEP/intro.md)
 
 
 [Neuroimaging]()
 
   * Neuroimaging summary
+  * [abstract](thalamusCHRFEP/intro.md)
 
 
 [Thalamus project]()

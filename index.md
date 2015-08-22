@@ -5,13 +5,14 @@ About
 
 ![myPic.jpg](img/myPic.jpg)
 
-#### kangik@snu.ac.kr
 
-github.io contents
---------
+- Sokcho, London, Seoul
+- Interested in analysis in clinical neuroimaing
+- UK IC Biomedical Sciences graduate & KR SNU PhD candidate in Brain and Cognitive Sciences 
+- kangik@snu.ac.kr
 
-- project summary
-- python / bash scripts 
+<br>
+
 
 comment
 --------

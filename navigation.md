@@ -1,6 +1,10 @@
-# Kang-Ik Kevin Cho
+# kcho
 
 [About](index.md)
+
+[Github]()
+
+
 
 [Thalamus project]()
 

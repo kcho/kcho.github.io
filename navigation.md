@@ -6,48 +6,48 @@
 
 
 
-[Thalamus project]()
+>[Thalamus project]()
 
-  * # CHR / FEP thalamus project
-  * [abstract](thalamusCHRFEP/intro.md)
-  ----------
-  * [Demographics](thalamusCHRFEP/demo.md)
-  * [Methods & scripts](thalamusCHRFEP/methods.md)
-  * [Data Management](thalamusCHRFEP/dataManage.md)
-  * [Results](thalamusCHRFEP/results.md)
+  >* # CHR / FEP thalamus project
+  >* [abstract](thalamusCHRFEP/intro.md)
+  >----------
+  >* [Demographics](thalamusCHRFEP/demo.md)
+  >* [Methods & scripts](thalamusCHRFEP/methods.md)
+  >* [Data Management](thalamusCHRFEP/dataManage.md)
+  >* [Results](thalamusCHRFEP/results.md)
 
-[Pain project]()
+>[Pain project]()
 
-  * # CRPS cortical thickness project
-  * [Abstract](painProject/abstract.md)
-  ----------
-  * [Subjects](painProject/subjects.md)
-  * [Methods](painProject/corticalThickness.md)
-  * [Results](painProject/results.md)
+  >* # CRPS cortical thickness project
+  >* [Abstract](painProject/abstract.md)
+  >----------
+  >* [Subjects](painProject/subjects.md)
+  >* [Methods](painProject/corticalThickness.md)
+  >* [Results](painProject/results.md)
 
-[DKI project]()
+>[DKI project]()
 
-  * # SPD/FEP DKI gray matter 
-  * [Abstract](dki/abstract.md)
-  ----------
-  * [Propensity Score](dki/propensityMatching.md)
-  * [Script](dki/script.md)
-  * [SPD](dki/spd.md)
-  * [FEP](dki/fep.md)
-  * [ansertoapp](ansertoapp.md)
-  * [결과예측](preresult.md)
-  * [스키장터](skijangter.md)
+  >* # SPD/FEP DKI gray matter 
+  >* [Abstract](dki/abstract.md)
+  >----------
+  >* [Propensity Score](dki/propensityMatching.md)
+  >* [Script](dki/script.md)
+  >* [SPD](dki/spd.md)
+  >* [FEP](dki/fep.md)
+  >* [ansertoapp](ansertoapp.md)
+  >* [결과예측](preresult.md)
+  >* [스키장터](skijangter.md)
 
-[book]()
+>[book]()
 
-  * [book](book.md)
-  * [2014](book2014.md)
+  >* [book](book.md)
+  >* [2014](book2014.md)
 
-[seminar](seminar.md)
+>[seminar](seminar.md)
 
-[diary]()
+>[diary]()
 
-  * [2014](diary2014.md)
+  >* [2014](diary2014.md)
 
 
 [gimmick:theme (inverse: false)](yeti)

@@ -16,38 +16,7 @@
   >* [Data Management](thalamusCHRFEP/dataManage.md)
   >* [Results](thalamusCHRFEP/results.md)
 
->[Pain project]()
 
-  >* # CRPS cortical thickness project
-  >* [Abstract](painProject/abstract.md)
-  >----------
-  >* [Subjects](painProject/subjects.md)
-  >* [Methods](painProject/corticalThickness.md)
-  >* [Results](painProject/results.md)
-
->[DKI project]()
-
-  >* # SPD/FEP DKI gray matter 
-  >* [Abstract](dki/abstract.md)
-  >----------
-  >* [Propensity Score](dki/propensityMatching.md)
-  >* [Script](dki/script.md)
-  >* [SPD](dki/spd.md)
-  >* [FEP](dki/fep.md)
-  >* [ansertoapp](ansertoapp.md)
-  >* [결과예측](preresult.md)
-  >* [스키장터](skijangter.md)
-
->[book]()
-
-  >* [book](book.md)
-  >* [2014](book2014.md)
-
->[seminar](seminar.md)
-
->[diary]()
-
-  >* [2014](diary2014.md)
 
 
 [gimmick:theme (inverse: false)](yeti)

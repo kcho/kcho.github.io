@@ -8,6 +8,7 @@
 
 
 [Matplotlib]()
+
   * Matplot lib
 
 
@@ -17,21 +18,24 @@
 
 
 [RasberryPi]()
+
   * Script summary
 
 
 [Neuroimaging]()
+
   * Neuroimaging summary
 
->[Thalamus project]()
 
-  >* # CHR / FEP thalamus project
-  >* [abstract](thalamusCHRFEP/intro.md)
-  >----------
-  >* [Demographics](thalamusCHRFEP/demo.md)
-  >* [Methods & scripts](thalamusCHRFEP/methods.md)
-  >* [Data Management](thalamusCHRFEP/dataManage.md)
-  >* [Results](thalamusCHRFEP/results.md)
+[Thalamus project]()
+
+  * # CHR / FEP thalamus project
+  * [abstract](thalamusCHRFEP/intro.md)
+  ----------
+  * [Demographics](thalamusCHRFEP/demo.md)
+  * [Methods & scripts](thalamusCHRFEP/methods.md)
+  * [Data Management](thalamusCHRFEP/dataManage.md)
+  * [Results](thalamusCHRFEP/results.md)
 
 
 

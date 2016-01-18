@@ -3,7 +3,7 @@ About
 
 ##Kang-Ik Kevin Cho
 
-![myPic.gif](img/myPic.gif)
+![myPic.jpg](img/myPic.jpg)
 
 
 - Sokcho, London, Seoul

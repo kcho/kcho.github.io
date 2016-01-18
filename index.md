@@ -3,12 +3,20 @@ About
 
 ##Kang-Ik Kevin Cho
 
-![myPic.jpg](img/myPic.jpg)
+![myPic.gif](img/myPic.gif)
 
 
 - Sokcho, London, Seoul
-- Interested in clinical neuroimaing analysis
-- UK IC Biomedical Sciences graduate & KR SNU PhD candidate in Brain and Cognitive Sciences 
+- Clinical neuroimaing analysis
+
+    - fsl
+    - freesurfer
+    - slicer
+    - python
+        - nipype
+
+- BSc. in Biomedical Sciences, Imperial College London
+- Brain and Cognitive Sciences, Department of Natural Sciences, Seoul National University (PhD. candidate)
 - kangik@snu.ac.kr
 
 <br>

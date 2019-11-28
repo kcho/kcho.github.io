@@ -2,50 +2,6 @@
 
 [About](index.md)
 
-[Thalamus Projects]()
-
-  * Altered thalamo-cortical connection
-  * Altered thalamus microstructure
-
-[Imaging pipelines]()
-
-  * Scripts with pandas
-
-[Matplotlib]()
-
-  * Matplot lib
-  * [abstract](thalamusCHRFEP/intro.md)
-
-
-[R]()
-
-  * Script summary
-  * [abstract](thalamusCHRFEP/intro.md)
-
-
-[RasberryPi]()
-
-  * Script summary
-  * [abstract](thalamusCHRFEP/intro.md)
-
-
-[Neuroimaging]()
-
-  * Neuroimaging summary
-  * [abstract](thalamusCHRFEP/intro.md)
-
-
-[Thalamus project]()
-
-  * # CHR / FEP thalamus project
-  * [abstract](thalamusCHRFEP/intro.md)
-  ----------
-  * [Demographics](thalamusCHRFEP/demo.md)
-  * [Methods & scripts](thalamusCHRFEP/methods.md)
-  * [Data Management](thalamusCHRFEP/dataManage.md)
-  * [Results](thalamusCHRFEP/results.md)
-
-
 
 
 [gimmick:theme (inverse: false)](yeti)

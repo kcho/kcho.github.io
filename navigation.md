@@ -2,10 +2,14 @@
 
 [About](index.md)
 
-[Pandas]()
+[Thalamus Projects]()
+
+  * Altered thalamo-cortical connection
+  * Altered thalamus microstructure
+
+[Imaging pipelines]()
 
   * Scripts with pandas
-
 
 [Matplotlib]()
 
